@@ -6,4 +6,9 @@
 
 4.Write a javascript to get the current date.
 
-5. Write a javascript programto create a new string adding "New!" in front of a given string. If the givem string begins with "New!" already then return the original string.
+5. Write a javascript program to create a new string adding "New!" in front of a given string. If the givem string begins with "New!" already then return the original string.
+
+6. Write a JavaScript program to create a new string from a given string taking the first 3 characters and the last  3 characters of a string and adding them together. 
+The string length must be 3 or more, if not, the original string is returned.
+
+7. Write a Javascript Program to extract the first half of a string of even length.
