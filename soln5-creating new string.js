@@ -1,0 +1,1 @@
+//5. Write a javascript programto create a new string adding "New!" in front of a given string. If the givem string begins with "New!" already then return the original string.

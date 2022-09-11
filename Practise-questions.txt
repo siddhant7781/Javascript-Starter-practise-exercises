@@ -1,0 +1,9 @@
+1. write a javascript program to check two numbers and return true if one of the number is less or if the sum of the two numbers is 100.
+
+2.write a javascript program to get the extension of a filename.
+
+3.Write a javascript program to replace every character in a agiven string with the character following it in the alphabet.
+
+4.Write a javascript to get the current date.
+
+5. Write a javascript programto create a new string adding "New!" in front of a given string. If the givem string begins with "New!" already then return the original string.
