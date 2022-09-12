@@ -3,8 +3,8 @@
 const noOfEvenNumbers = (array) => array.filter(a => a %2===0).length;
 const createArrayOfNumbers = (num) => {
     const returnArray =[];
-    for(let i=0;i<=num;i++){
-        returnArray.push[i];
+    for(let i=1;i<=num;i++){
+        returnArray.push(i);
     }
     return returnArray;
 };
