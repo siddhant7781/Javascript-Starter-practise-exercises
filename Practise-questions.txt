@@ -22,3 +22,17 @@
 11. Write a JavaScript program to find the number of even digits in a array of integers
 
 12.  Write a JavaScript program to find the number of even values up to a given number.
+
+13. Write a Javascript program to check whether a given array of integers is in ascending order.
+
+14. Write a JavaScript program to get the largest even number from an array of intergers.
+
+15. write a array to get the sum of positive numbers from an array of integers.integers can have negative values.
+
+16. 16.Sum all the numbers of a given array, except the highest and the lowest element ( by value, not by index! ). return 0 if array is null,none or nothing.
+
+17. Write a JavaScript Program to replace first digit in a string (should contains at least digit) with $ character.
+
+18. Given a year, report if it is a leap year.
+
+19. wap to compare two objects to determine if the first one contains the same properties as the second one (which may have additional properties)
